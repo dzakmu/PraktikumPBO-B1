@@ -1,8 +1,6 @@
 /*Nama: Muhammad Dzaky Mu'ammar */
 /*NIM: 24060122130064 */
 
-package latihanMedium;
-
 public class TestSenjata {
     
     public static void main(String[] args){
